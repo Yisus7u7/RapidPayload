@@ -30,6 +30,14 @@ en nombre ponga el nombre seguido de la extensión(.apk,.exe,.py,.sh)
 Y a la izquierda seleccione el sistema en el cual
 Se instalará 
 
+# Capturas de pantalla 
+
+
+![imagen 1](./build.png)
+
+![imagen 2](./generando.png)
+
+![imagen 3](./resultado.png)
 
 
 
